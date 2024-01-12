@@ -1,5 +1,5 @@
 ## Blog ## 
-博客网址<[https://czblog.xyz](http://czblog.xyz/)>
+博客网址<[https://czblog.xyz](http://czblog.xyz/)>（请勿使用VPN访问）
 ## 依赖 ##
 前端直接npm i
 后端见porn.xml
